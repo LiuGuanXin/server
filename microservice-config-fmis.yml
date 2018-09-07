@@ -1,0 +1,14 @@
+microserviceConfig:
+   miscroservice-FMIS:
+    JZFMISSVR:
+      context: EnterpriseServer
+      ObjectName:
+        SecurityObject:
+          method: Login
+   
+#  BZServer:
+#  ZJServer:
+#  JYPTServer:
+
+
+
